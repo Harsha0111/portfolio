@@ -581,12 +581,12 @@ const Portfolio = () => {
                   </a>
                   <a
                     className="flex items-center gap-2 text-slate-600 hover:text-slate-800 transition-colors"
-                    href="https://linkedin.com/in/harshajs"
+                    href="https://linkedin.com/in/harsha-js"
                     rel="noopener noreferrer"
                     target="_blank"
                   >
                     <FaLinkedin size={16} />
-                    <span className="text-sm">linkedin.com/in/harshajs</span>
+                    <span className="text-sm">linkedin.com/in/harsha-js</span>
                   </a>
                 </div>
               </div>
@@ -1140,7 +1140,7 @@ const Portfolio = () => {
                   </div>
                 </a>
                 <a
-                  href="https://linkedin.com/in/harshajs"
+                  href="https://linkedin.com/in/harsha-js"
                   rel="noopener noreferrer"
                   target="_blank"
                   className="block p-6 bg-slate-50 hover:bg-slate-100 rounded-xl shadow-sm hover:shadow-lg transition-all duration-300 border border-slate-200 text-center group"
@@ -1155,7 +1155,7 @@ const Portfolio = () => {
                       </h4>
                       <p className="text-slate-600 text-sm group-hover:text-sky-600 transition-colors duration-300">
                         {" "}
-                        linkedin.com/in/harshajs{" "}
+                        linkedin.com/in/harsha-js{" "}
                       </p>
                     </div>
                   </div>
